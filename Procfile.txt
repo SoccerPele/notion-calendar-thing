@@ -1,0 +1,1 @@
+web: python schoology_sync.py
